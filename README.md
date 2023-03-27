@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bluesfin
-- 📘 I'm an oldman going back to college for computer science. I already have an engineering degree just trying to get all my info 📇 oganized.
+- 👋 Hi, My name is tony and blue is my favorite color.
+- 📘 I'm an oldman going back to university for computer science. I already have an engineering degree so am just trying to organize all the data, in my head.
 - 🤖 Trying to also graduate from tutorial 💀
 - 👀 I’m interested in learning how to use GitHub, learning how to create stuff, and learn how to share my stuff!
 - 🌱 I’m currently in a high-intense confusing, too much to learn, learning phase.
